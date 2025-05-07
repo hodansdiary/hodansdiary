@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Hodan</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=4A90E2&center=true&vCenter=true&width=435&lines=Fullstack+Developer;Tech+Enthusiast+💻;Lifelong+Learner+📚;Open+Source+Lover+❤️" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=4A90E2&center=true&vCenter=true&width=435&lines=Fullstack+Developer;Tech+Enthusiast+💻;Lifelong+Learner+📚;Open+Source+Lover+❤️" alt="Typing SVG" />
 </p>
 
 ---
