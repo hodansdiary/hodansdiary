@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hodan</h1>
 <h3 align="center">A passionate frontend developer and backend</h3>
 
-- 🔭 I’m currently working on **personal prtfolia**
+- 🔭 I’m currently working on **personal portfolia**
 
 - 🌱 I’m currently learning **react**
 
