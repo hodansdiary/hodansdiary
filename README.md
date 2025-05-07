@@ -13,7 +13,7 @@
 - 💬 Ask me about: **Web Development, Backend APIs, and Tech Stack**
 - 🤝 Open to: **Collaborations & Freelance Projects**
 - 📫 Reach me at: **hodanhashi376@gmail.com**
-- 🌍 From: **Somaliland**
+
 
 ---
 
