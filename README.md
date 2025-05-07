@@ -1,3 +1,18 @@
+<h1 align="center">Hi 👋, I'm Hodan</h1>
+<h3 align="center">A passionate frontend developer and backend</h3>
+
+- 🔭 I’m currently working on **personal prtfolia**
+
+- 🌱 I’m currently learning **react**
+
+- 👯 I’m looking to collaborate on **web development**
+
+- 🤝 I’m looking for help with **developmen**
+
+- 💬 Ask me about **developments**
+
+- 📫 How to reach me **hodanhashi376@gmail.**
+
 <p align="left"></p>
 
 ###
