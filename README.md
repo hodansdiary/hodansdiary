@@ -1,50 +1,52 @@
-<h1 align="center">Hi 👋, I'm Hodan</h1>
-<h3 align="center">A passionate frontend developer and backend</h3>
+<h1 align="center">Hi there 👋, I'm Hodan</h1>
 
-- 🔭 I’m currently working on **personal prtfolia**
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=4A90E2&center=true&vCenter=true&width=435&lines=Fullstack+Developer;Tech+Enthusiast+💻;Lifelong+Learner+📚;Open+Source+Lover+❤️" alt="Typing SVG" />
+</p>
 
-- 🌱 I’m currently learning **react**
+---
 
-- 👯 I’m looking to collaborate on **web development**
+### 💫 About Me
 
-- 🤝 I’m looking for help with **developmen**
+- 🔭 Currently working on: **Personal Portfolio Website**
+- 🌱 Learning: **React & Modern Frontend Tools**
+- 💬 Ask me about: **Web Development, Backend APIs, and Tech Stack**
+- 🤝 Open to: **Collaborations & Freelance Projects**
+- 📫 Reach me at: **hodanhashi376@gmail.com**
+- 🌍 From: **Somaliland**
 
-- 💬 Ask me about **developments**
+---
 
-- 📫 How to reach me **hodanhashi376@gmail.**
+### 🛠️ Tech Stack
 
-<p align="left"></p>
-
-###
-
-<p align="left"></p>
-
-###
-
-<p align="left"></p>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
 </div>
 
-###
+---
 
+### 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hodan376&show_icons=true&theme=radical" alt="Hodan's GitHub Stats" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hodan376&theme=radical" alt="GitHub Streak" />
+</p>
 
-<p align="left"></p>
+---
 
-###
+### 🌐 Connect With Me
+
+<p align="center">
+  <a href="mailto:hodanhashi376@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/hodan376"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
