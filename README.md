@@ -37,7 +37,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hodan376&show_icons=true&theme=radical" alt="Hodan's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hodansdiary&show_icons=true&theme=radical" alt="Hodan's GitHub Stats" />
   <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hodan376&theme=radical" alt="GitHub Streak" />
 </p>
@@ -48,5 +48,5 @@
 
 <p align="center">
   <a href="mailto:hodanhashi376@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/hodan376"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/hodansdiary"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
